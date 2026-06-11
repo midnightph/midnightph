@@ -14,7 +14,7 @@
 
 Fullstack developer focused on mobile and web applications.
 
-Currently building products with React Native, Spring Boot and Firebase while finishing high school in Brazil.
+Currently building products with React Native, Spring Boot and Firebase.
 
 My main interest is creating software that solves real business problems instead of tutorial projects that disappear after a weekend.
 
